@@ -12,7 +12,7 @@ const SEARCHES = [
   'free child porn vid'
 ]
 const VIDEOS = [
-  'gethackniga.mp4,
+  'gethackniga.mp4',
   'HACKEDBYH.EROBOT',
   'HACKEDBYH.EROBOT2.mp4',
   '0816.mp4',
